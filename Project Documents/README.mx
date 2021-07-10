@@ -7,9 +7,9 @@ Step 5: Open the database files in the mysql.
 Step 6: Run the second program and then run the first program.
 Step 7: Now open the Netbeans then open the project clould video.
 Step 8: Run the project then we will notice the webpage loading in the goole chrome.
-Step 9: There will be a option called resiger in the web page.
-Step 10:A user in that page.After registering login into the webpage by clicking the login option.
-Step 11:We may notice that user is provided with various videos and information about in which it is running.
+Step 9: There will be a option called register in the web page.
+Step 10:A new user login is created in that page.After registering, login into the webpage by clicking the login option.
+Step 11:We may notice that user is provided with various videos and information about in which server it is running.
 Step 12:Similar way create 5-6 user logins.
-Step 13:The 7th user login page we may notice that the server migration has happened.
+Step 13:In the 7th user login page we may notice that the server migration has happened.
 Step 14:So,when overload of the users occur it automatically redirects the users to the another server.
